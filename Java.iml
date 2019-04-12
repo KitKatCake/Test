@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jedis-2.9.0" level="application" />
+    <orderEntry type="library" name="javatuples-1.2" level="application" />
   </component>
 </module>
